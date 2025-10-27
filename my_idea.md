@@ -1,3 +1,9 @@
 # this is my markdown file
 
 Open Multilingual Wordnet is an open source repository that has the goal of making it easy to use wordnets in multiple languages. Its a large, linked, lexical database that maps concepts and words across many languages. This repository and its components are open for usage, meaning they can be freely used, modified and shared by anyone for any purpose that might be needed. The repository mentions that the original projects need to be cited, and if the user has any value from this aggregation/normalization, Bond and Paik(2012) is to be cited. At the moment there are 2 OMW versions. The first one links hand created wordnets and automatically creates wordnets for over 150 languages through Princeton Wordnet of English. The second version, currently experimental, uses the Collaborative Interlingual Index to link the wordnets together. Bond etal, 2016.
+Key Features
+Multilingual coverage: Includes dozens of languages (e.g., English, Spanish, Chinese, Japanese, Arabic, etc.).
+Common alignment: Based on Princeton WordNet 3.0, 3.1, or 2023 versions, depending on the release.
+Open license: Freely available under open-source licenses (typically CC-BY or similar).
+Interoperable: Designed for use with NLP frameworks like NLTK, SpaCy, and BabelNet.
+Structured data: Distributed in XML, RDF, or JSON formats for easy machine access.
